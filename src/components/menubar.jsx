@@ -11,7 +11,7 @@ export default function MenuBar(){
             </div>
             <div className='spacer'>
             <Link>
-            <button className='white_btn'>LOGIN</button>
+            <button className='dark_btn'>LOGIN</button>
             </Link>
             </div>
             

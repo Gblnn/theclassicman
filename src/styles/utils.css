@@ -55,6 +55,24 @@
     box-shadow: 1px 1px 10px white;
 }
 
+.dark_btn{
+    background-color: #4a4a4a;
+    color: black;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.dark_btn:hover{
+    box-shadow: 1px 1px 10px #8a8a8a;
+}
+
 .page_container{
     display: flex;
     flex-direction: column;
