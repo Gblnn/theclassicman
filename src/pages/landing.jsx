@@ -11,13 +11,9 @@ export default function LandingPage(){
             <div className="desc_container">
             <p className="description">We offer the best quality garments ready to be shipped worldwide</p>
             </div>
-            
-            <Link>
             <button className="white_btn">
                 GET STARTED
-            </button>
-            </Link>
-            
+            </button> 
         </div>
         </>
     )
