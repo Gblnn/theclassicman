@@ -64,7 +64,7 @@
     align-items: center;
     gap: 3rem;
     /* background: url("public/fabric.jpg"); */
-    background: linear-gradient(#1a1a1a, black);
+    background: linear-gradient(#2a2a2a, black);
     object-fit: fill;
 }
 
