@@ -12,7 +12,7 @@ export default function LandingPage(){
             <p className="description">We offer the best quality garments ready to be shipped worldwide</p>
             </div>
             
-            <Link to = '/categories'>
+            <Link>
             <button className="white_btn">
                 GET STARTED
             </button>
