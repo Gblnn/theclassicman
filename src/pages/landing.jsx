@@ -6,6 +6,7 @@ export default function LandingPage(){
         <>
         <MenuBar/>
         <div className="page_container">
+            {}
             <h1 className="heading">MENS' SUITING<br/> COLLECTION</h1>
             <div className="desc_container">
             <p className="description">We offer the best quality garments ready to be shipped worldwide</p>
