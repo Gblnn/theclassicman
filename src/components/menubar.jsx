@@ -7,7 +7,7 @@ export default function MenuBar(){
         <div className="header_container">
             <div className='left_empty'></div>
             <div className='title_container'>
-                <img className='header_logo' src='/hanger.png'/>
+                <img className='header_logo' src='/headerlogo.png'/>
             </div>
             <div className='spacer'>
             <Link>
